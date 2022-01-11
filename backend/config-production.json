@@ -1,26 +1,26 @@
 {
   "database": {
-    "name": "",
-    "username": "",
-    "password": "",
-    "host": "",
+    "name": "dpilab-mocksocialdb",
+    "username": "admin",
+    "password": "DPILab2021",
+    "host": "dpilab-mocksocialdb.clqfyofkfgmp.us-west-1.rds.amazonaws.com",
     "port": "3306",
     "dialect": "mysql"
   },
   "adminCredentials": [
     {
-      "username": "",
-      "password": ""
+      "username": "hoverbye",
+      "password": "passwordhoverbye"
     },
     {
-      "username": "",
-      "password": ""
+      "username": "dan",
+      "password": "passworddan"
     },
     {
       "username": "",
       "password": ""
     }
   ],
-  "secret": "",
-  "secretUser": ""
+  "secret": "79576c0f97da4af373b1bd1877fc3d395884efe3c5e53fc1e9da8dcb8bf13e9d",
+  "secretUser": "993339312b873d84e3c590596b8946e80a170a89ff1744f72ed4ce4f43cdda73"
 }
